@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '36a281f48c354e3f853b855d7f351fa2',
+  rootNotionPageId: '7e712c8cc3a4456aa84436cd865db932',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '懒虫的世界',
-  domain: 'https://www.notion.so/Movie-List-36a281f48c354e3f853b855d7f351fa2',
+  domain: 'https://www.notion.so/Blog-7e712c8cc3a4456aa84436cd865db932',
   author: 'Kevin Zhang',
 
   // open graph metadata (optional)
